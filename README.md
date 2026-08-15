@@ -1,4 +1,4 @@
-Hi, ich bin Louis 18 Jahre alt.
+## Hi, ich bin Louis 18 Jahre alt.
 
 Aktuell bin ich noch Schüler aus Ulm. Ich bewerbe mich für ein duales 
 Informatik-Stuidum ab Herbst 2027 und bringe mir bis dahin Python, SQL und Linux
@@ -9,4 +9,5 @@ jede Woche.
 
 
 Gerade dabei: pandas, SQLite, erste Flask-Anwendung
+
 Als Nächstes: Algorithmen und Datenstrukturen
