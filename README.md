@@ -10,6 +10,6 @@ Aktuell baue ich an einem Tool, das mein Trading-Journal auswertet - und benutze
 jede Woche.  
 
 
-**Gerade dabei:** pandas, SQLite, erste Flask-Anwendung  
+**Gerade dabei:** Web Dev -> HTML, CSS, JS
 
 **Als Nächstes:** Algorithmen und Datenstrukturen
