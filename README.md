@@ -1,6 +1,6 @@
 ## Hi, ich bin Louis
 
-Ich bin 18 Jahre alt und noch Schüler aus Ulm. Ich bewerbe mich für ein duales 
+Ich bin 19 Jahre alt und noch Schüler aus Ulm. Ich bewerbe mich für ein duales 
 Informatik-Studium ab Herbst 2027 und bringe mir bis dahin Python, SQL und Linux
 projektbasiert selbst bei.  
 
